@@ -11,4 +11,4 @@ Project 2
 
 Description: 
 My version of fb app. This app I maked only for learn purpose.
-![]()
+![](https://github.com/AAndrys/React-Native-projects/blob/master/project2/fb.gif)
